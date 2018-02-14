@@ -10,10 +10,10 @@ This code generates a total score of 615,639 points.
 - big.in
 
 ### Output Files with their corresponding scores
-- example.out -> 15 points
-- small.out -> 24 points
-- medium.out -> 42468 points
-- big.out -> 573132 points
+- example.out -> **15** points
+- small.out -> **24** points
+- medium.out -> **42468** points
+- big.out -> **573132** points
 
 ### Python code
 - pizza1.py
